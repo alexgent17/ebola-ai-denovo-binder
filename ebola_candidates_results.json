@@ -1,0 +1,35 @@
+{
+  "project": "Ebola Virus Glycoprotein De Novo Binders",
+  "target_pdb": "5DQO",
+  "receptor_binding_site_residues": [51, 88, 111, 113, 114, 141, 142, 143],
+  "top_candidates": [
+    {
+      "rank": 1,
+      "sequence": "KVDYLRSTRYNRKY",
+      "estimated_delta_g_kcal_mol": -4.78,
+      "solubility_mg_ml": 65.8,
+      "solubility_class": "Very Soluble",
+      "pains_alerts": 0
+    },
+    {
+      "rank": 2,
+      "sequence": "RFKTVRYFMKDQGK",
+      "estimated_delta_g_kcal_mol": -4.49
+    },
+    {
+      "rank": 3,
+      "sequence": "KRLKKTSVELSRTG",
+      "estimated_delta_g_kcal_mol": -4.32
+    },
+    {
+      "rank": 4,
+      "sequence": "WLAVRGKWRDLKGV",
+      "estimated_delta_g_kcal_mol": -4.28
+    },
+    {
+      "rank": 5,
+      "sequence": "SGYNQMTEAWKAFV",
+      "estimated_delta_g_kcal_mol": -4.26
+    }
+  ]
+}
